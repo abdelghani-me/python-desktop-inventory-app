@@ -1,0 +1,10 @@
+# Local data - never upload
+*.db
+backups/
+Reports/
+
+# Build output
+build/
+dist/
+*.spec
+__pycache__/
